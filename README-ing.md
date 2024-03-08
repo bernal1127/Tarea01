@@ -1,0 +1,1 @@
+To begin, you save a file with the extension of .c, which in this case would be prog01-ing.c, after that you compile it with a GCC command and after doing that, you can execute it by putting a ./prog01-ing
