@@ -1,0 +1,1 @@
+Para empezar guardas un archivo con la extensionn de .c que en este caso seria prog01-es.c,luego de eso lo compilas con un comando de GCC y luego de hacer eso,lo puedes ejecutar poniendo un ./prog01-es
